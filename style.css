@@ -19,8 +19,9 @@
 
 
 .grid-1{
-    display: grid;
-    grid-template-columns: repeat(1,1fr);
+    display: flex;
+    justify-content: center;
+    align-items: center;    
     margin-right: auto;
     margin-left: auto;
 }
