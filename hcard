@@ -1,10 +1,16 @@
-<ul class="vcard">
-    <li class="fn">Mr. Matthew Harmon</li>
-    <li class="nickname">MJ</li>
-    <li class="tel">612-987-0115</li>
-    <li class="geo">44.93,-93.2577</li>
-    <li class="url">
-	<a class="url" href="https://mjharmon.com">
-        <img class="fn photo" src="https://mjharmon.com/mjh-head.jpg" alt="MJ Harmon" />
-        </a> 
-</ul>
+<div class="h-card vcard">
+  <span class="p-honorific-prefix">Mr./span>
+  <span class="p-name">Matthew J. Harmon</span>
+  <span class="p-nickname">MJ</span>
+  <img class="p-photo" src="https://mjharmon.com/mjh-head.jpg" />
+  <a class="u-email" href="mailto:mjh@itys.net">
+    mjh@itys.net
+  </a>
+  <div class="adr">
+    <span class="p-locality">Minneapolis</span>, 
+    <span class="p-region">MN</span>, 
+    <span class="p-postal-code">55404</span>
+    <span class="p-country-name">USA</span>
+    <span class="p-geo">44.93,-93.2577</span>
+  </div>
+</div>
