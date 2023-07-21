@@ -19,11 +19,11 @@
 
 
 .grid-1{
-    display: flex;
-    justify-content: center;
-    align-items: center;    
-    margin-right: auto;
-    margin-left: auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   min-height: 100vh;
 }
 
 body{
