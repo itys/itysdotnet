@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Matthew J Harmon
+N;CHARSET=UTF-8:Harmon;Matthew;J;Mr;
+NICKNAME;CHARSET=UTF-8:MJ
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:mjh@itys.net
+TEL;TYPE=CELL:612-987-0115
+TEL;TYPE=HOME,VOICE:612-234-1312
+ADR;CHARSET=UTF-8;TYPE=HOME:;;;Minneapolis;Minnesota;55404;
+TITLE;CHARSET=UTF-8:Cyber Incident Response Team Manager (Americas)
+X-SOCIALPROFILE;TYPE=mastodon:https://social.treehouse.systems/@mj
+X-SOCIALPROFILE;TYPE=twitter:https://www.twitter.com/mjharmon
+X-SOCIALPROFILE;TYPE=internet:https://mjharmon.com
+X-SOCIALPROFILE;TYPE=threema:https://threema.id/CJVSFCAB
+REV:2023-07-15T16:19:44.511Z
+END:VCARD
