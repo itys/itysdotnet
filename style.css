@@ -47,6 +47,11 @@ a{
 .section-1{
     padding-top: 40vh;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
 }
 
 .section-1 p{
