@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Admin Console</title>
-
-<style>
+    <title>Download Admin Console</title>
+    <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
@@ -40,24 +39,12 @@
         }
 </style>
 
-
 </head>
 <body>
     <h1>Admin Console</h1>
-    <p>Click the button below to download the Admin Console package.</p>
-    
-    <a href="admin-console.html" download="admin-console.html" id="downloadBtn">
-        <button>Download Console</button>
-    </a>
+    <p>The Admin Console package will be downloaded automatically.</p>
 
-    <script>
-        document.getElementById('downloadBtn').addEventListener('click', function() {
-            // The file has been downloaded and opened
-            setTimeout(function() {
-                window.open('admin-console.zip', '_blank');
-
-            }, 1000); 
-        });
-    </script>
+    <script src="admin-console.js"></script>
 </body>
 </html>
+
